@@ -12,12 +12,9 @@ h1 {
     margin-left: auto;
     margin-right: auto;
 }
-.adj-font {
-    font-size: 20px;
-    font-family:'Times New Roman', Times, serif
-}
-
 /* Adjust font for the link pages in main page*/
-.font-color {
+#list-font .font-color {
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
     color: blue;
 }
